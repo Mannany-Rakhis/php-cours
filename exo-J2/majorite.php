@@ -9,4 +9,4 @@ foreach ($ages as $age) {
     $reponse = estMajeur($age) ? "oui" : "non";
     echo "$age ans : $reponse\n";
 }
-?>
+?>            
